@@ -179,10 +179,12 @@ iconify-icon{
 
 .portfolio-item {
   margin-bottom: 25px;
+  height: 140px;
 }
 
 .img-portfolio {
   margin: 0 auto;
+  height: 100px;
 }
 
 
